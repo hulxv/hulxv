@@ -4,11 +4,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/268945319511851010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hulxv) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hulxv)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hulxxv@gmail.com) 
 
 
-<div align='center'>
- 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox">
 
 ## GitHub Stats
 
