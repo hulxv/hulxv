@@ -10,20 +10,6 @@
 
 </div>
 
-
-## Highlighted Projects
-|                          Name                           | Description                                                                                                                                                                                                         |
-| :-----------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  [mill-io](https://github.com/citadel-tech/Event-Loop)  | A lightweight event loop library for Rust that provides efficient non-blocking I/O management without relying on heavyweight async runtimes. It is a reactor-based event loop implementation built on top of `mio`. |
-|     [MetaSSR](https://github.com/metacall/metassr)      | High-performance server side rendering framework built with Metacall and Rust.                                                                                                                                      |
-|         [JIF-8](https://github.com/hulxv/jif-8)         | A modern implementation of a Chip-8 emulator written in Java with JavaFX for the graphical user interface.                                                                                                          |
-|    [AsciiVideo](https://github.com/hulxv/asciivideo)    | Play your videos without bloatwares as a pro linux user.                                                                                                                                                            |
-| [vnStat Client](https://github.com/hulxv/vnstat-client) | GUI Client for vnStat Network Monitor for Linux or GNU/Linux.                                                                                                                                                       |
-| [vnStat Server](https://github.com/hulxv/vnstat-server) | Serve your vnStat data and controlling in it easily by HTTP requests.                                                                                                                                               |
-|       [Prqlite](https://github.com/hulxv/prqlite)       | Amazing tool for using Sqlite with PRQL.                                                                                                                                                                            |
-
-
-
 ## GitHub Stats
 
 <div align="center">  
